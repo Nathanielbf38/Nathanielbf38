@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nathaniel
 - 👀 I’m interested in frontend & fullstack development!
-- 🌱 I’m currently learning React.JS coupled with other frontend technologies! 
+- 🌱 I’m currently learning React.JS, Typescript, SQL coupled with other frontend/backend technologies! 
 - 📫 How to reach me ...here!
 
 <!---
