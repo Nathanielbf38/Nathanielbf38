@@ -1,9 +1,3 @@
-- 👋 Hi, I’m Nathaniel
-- 👀 I’m interested in frontend & fullstack development!
-- 🌱 I’m currently learning React.JS, Typescript, SQL coupled with other frontend/backend technologies! 
-- 📫 How to reach me ...here!
+<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/2e424cb5-a5f9-4482-a762-217a3fd6166e" />
+I love building things with 0s and 1s....just don't ask about my trailing backlogs or technical debts. 
 
-<!---
-Nathanielbf38/Nathanielbf38 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
